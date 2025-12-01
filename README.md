@@ -1,7 +1,7 @@
 # Hi 👋, I'm Pranav Maruti Patil
 
 ## 🚀 About Me
-🎓 2nd-year B.Tech student in **Artificial Intelligence & Data Science** at **ADCET, Ashta**  
+🎓 3rd-year B.Tech student in **Artificial Intelligence & Data Science** at **ADCET, Ashta**  
 💡 Passionate about AI, Data Science, IoT, and Web Development  
 🌱 Currently learning **Machine Learning, React, and IoT-based AI projects**  
 📍 From **Islampur, Sangli, Maharashtra, India**
