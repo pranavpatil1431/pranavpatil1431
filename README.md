@@ -20,7 +20,7 @@
 
 ## 🎯 About Me
 
-```typescript
+
 const pranav = {
     role: "AI & Data Science Student",
     education: "B.Tech (AI & DS)",
